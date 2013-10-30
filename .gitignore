@@ -1,0 +1,7 @@
+# Ignore .settings folder
+.settings/
+# Ignore salesforce.schema file
+salesforce.schema
+# Ignore vim edit files
+*~
+
